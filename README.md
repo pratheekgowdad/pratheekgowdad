@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/Pratheekgowdaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratheekgowdadj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pratheek-gowda-75a62722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratheekgowdadj" height="30" width="40" /></a>
-<a href="https://leetcode.com/pratheekgowdadj-23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jason212/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/pratheekgowdad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jason212/" height="30" width="40" /></a>
 <!-- <a href="https://auth.geeksforgeeks.org/user/jasondsouza212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jasondsouza212" height="30" width="40" /></a>
 </p>-->
 
