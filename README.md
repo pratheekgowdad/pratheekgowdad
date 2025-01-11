@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/Pratheekgowdaa" target="blank"><img src="https://img.shields.io/twitter/follow/_Pratheekgowdaa?logo=twitter&style=for-the-badge" alt="_pratheekgowdadj" /></a> </p>
 
-- 🔭 I’m currently working on learning **DSA in Java..**
-
-- 🌱 I’m looking for **help in finding a job.**
 
 <!-- - 👯 I’m currently learning **MERN stack** -->
 
@@ -15,7 +12,7 @@
 
 - 💬 Ask me about **anything within my domain below and if you want to collaborate in contributing to open source.**
 
-- 📫 How to reach me **pratheekgowdadj@gmail.com**
+- 📫 How to reach me **gowdadjpratheek@gmail.com**
 
 <!-- - 📄 Know about my experie.nces [https://github.com/JasonDsouza212/My-Resume/blob/main/MYRESUME.pdf](https://github.com/JasonDsouza212/My-Resume/blob/main/MYRESUME.pdf) -->
 
